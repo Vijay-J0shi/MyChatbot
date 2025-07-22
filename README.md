@@ -136,9 +136,3 @@ Vijay: Tell me a short story about a robot who learns to code.
 * All requests are streamed to simulate a natural typing effect.
 * No UI is used — this is fully CLI-based.
 
----
-
-## License
-
-This is a personal/educational project. No license applied.
-
